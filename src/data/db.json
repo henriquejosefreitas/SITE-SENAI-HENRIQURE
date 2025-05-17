@@ -1,0 +1,57 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "C. Ronaldo",
+      "email": "cr7@gmail.com",
+      "senha": "7"
+    },
+    {
+      "id": "2",
+      "nome": "Gregory",
+      "email": "gregory@gmail.com",
+      "senha": "7"
+    },
+    {
+      "id": "3",
+      "nome": "Goku",
+      "email": "goku@gmail.com",
+      "senha": "7"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "8933",
+      "nome": "CURSO TÉCNICO EM ELETROMECÂNICA",
+      "descricao": "é um bolo, dentro de um pote",
+      "categoria": "Alimentos e Bebidas",
+      "imagemUrl": "https://admin.loja.senaies.com.br/pub/media/catalog/product//e/l/eletromecanica__1_23.jpg"
+
+    },
+    {
+      "id": "b1c0",
+      "nome": "CURSO TÉCNICO EM ELETROMECÂNICA",
+      "descricao": "Garrafa de metal grande",
+      "categoria": "Saúde e Beleza",
+      "imagemUrl": "https://admin.loja.senaies.com.br/pub/media/catalog/product//e/l/eletromecanica__1_23.jpg"
+    },
+    {
+      "id": "0f41",
+      "nome": "CURSO TÉCNICO EM ELETROMECÂNICA",
+      "descricao": "É um notebook e é gamer, tem luzinha",
+      "categoria": "Saúde",
+      "imagemUrl": "https://admin.loja.senaies.com.br/pub/media/catalog/product//e/l/eletromecanica__1_23.jpg"
+
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Saúde"
+    },
+    {
+      "id": "2",
+      "nome": "Beleza"
+    }
+  ]
+}
