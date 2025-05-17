@@ -27,7 +27,7 @@ const CardProduto = (props) => {
             {props.categoria}
           </Card.Text>
           <Card.Link href={`/cursos`}>
-            <Button variant="warning">Ver mais</Button>
+            <Button className="w-100" variant="warning">Ver mais</Button>
           </Card.Link>
         </Card.Body>
       </Card>
